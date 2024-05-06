@@ -1,0 +1,8 @@
+{
+  "port": 8521,
+  "file_path": "C:\\Users\\xiez\\Downloads",
+  "filename_pattern": "DaikinAppliedAAH_AutoSim*.exe",
+  "keep_days": 7,
+  "max": 2,
+  "start_time": "22:00"
+}
